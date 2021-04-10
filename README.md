@@ -1,6 +1,6 @@
 # kbMod
 ## 使い方
-**Minecraft Windows 10 1.16.21005.0のみ** 
+**Minecraft Windows 10 1.16.220のみ** 
 
 **サーバーでは使えません**
 
