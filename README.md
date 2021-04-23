@@ -1,6 +1,6 @@
 # kbMod
 ## 使い方
-**Minecraft Windows 10 1.16.220のみ** 
+**Minecraft Windows 10 1.16.221のみ** 
 
 **サーバーでは使えません**
 
@@ -8,8 +8,7 @@
 
 1.インジェクトの仕方
   - [FateInjector](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)インジェクターをダウンロードします。もうすでにある人は無視していいです。
-  - [kbMod.zip](./kbMod.zip)をダウンロードしてください。
-  - ダウンロードしたら展開してください
+  - [kbMod.dll](./kbMod.dll)をダウンロードしてください。
   - Minecraftを起動します。起動してからメニューが見えるまで待ってください。
   - FateInjectorを起動します。起動したらSelectというところから、kbMod.dllを選択してください。
   - FateInjectorのInjectというボタンを押したらインジェクト完了です
