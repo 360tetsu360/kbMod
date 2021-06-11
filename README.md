@@ -23,4 +23,8 @@
     - チャットで```.delay 新しい遅延```と打ってください。小数は使えません。
     - そうしたら送信してください。これで適用されたはずです。
     - デフォルトは10なので初期化するときは```.delay 10```と打ってください。
+
+##その他
+[discord](https://discord.gg/BD2vSDTe2R)
+[source code](https://github.com/360tetsu360/KBmodSRC)
     
